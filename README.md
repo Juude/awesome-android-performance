@@ -1,5 +1,5 @@
 # awesome-android-performance
- This is a  list of awesome Android tutorials videos and tools for performance optimization
+ This is a  list of awesome Android tutorials, videos and tools for performance optimization
 
 ---
 ##View
