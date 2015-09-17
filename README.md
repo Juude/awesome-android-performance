@@ -36,6 +36,7 @@
 + [Android内存泄露案例分析](http://www.csdn.net/article/2015-09-07/2825631)
 + [Tips for Optimizing Android Application Memory Usage](https://software.intel.com/en-us/android/articles/tips-for-optimizing-android-application-memory-usage) - Tips
 + [Android memory and performance optimization - Tutorial](http://www.vogella.com/tutorials/AndroidApplicationOptimization/article.html)
++ [Building Memory-efficient Java Applications](http://www.cs.virginia.edu/kim/publicity/pldi09tutorials/memory-efficient-java-tutorial.pdf)
 ####Memory Tools 
 + [YourKit](https://www.yourkit.com/java/profiler/) - Performance and Memory Java Profile
 + [MAT](https://eclipse.org/mat/) - Memory Analysis tool for Java
