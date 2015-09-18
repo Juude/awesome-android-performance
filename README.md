@@ -30,13 +30,16 @@
 
 ##Memory
 + [Investigating Your RAM Usage](http://developer.android.com/intl/zh-cn/tools/debugging/debugging-memory.html)
-+ [The truth about Preventative Optimizations](https://medium.com/google-developers/the-truth-about-preventative-optimizations-ccebadfd3eb5) - Find some useful things from the links
++ [The truth about Preventative Optimizations](https://medium.com/google-developers/the-truth-about-preventative-optimizations-ccebadfd3eb5) - You  can find some useful things from the links.
 + [A small leak will sink a great ship](https://corner.squareup.com/2015/08/a-small-leak.html)
 + [LeakCanary](https://github.com/square/leakcanary) A memory leak detection library for Android and Java.
 + [Android内存泄露案例分析](http://www.csdn.net/article/2015-09-07/2825631)
 + [Tips for Optimizing Android Application Memory Usage](https://software.intel.com/en-us/android/articles/tips-for-optimizing-android-application-memory-usage) - Tips
 + [Android memory and performance optimization - Tutorial](http://www.vogella.com/tutorials/AndroidApplicationOptimization/article.html)
 + [Building Memory-efficient Java Applications](http://www.cs.virginia.edu/kim/publicity/pldi09tutorials/memory-efficient-java-tutorial.pdf)
++ [How to Leak a Context: Handlers & Inner Classes](http://www.androiddesignpatterns.com/2013/01/inner-class-handler-memory-leak.html)
++ [Improving Facebook's performance on Android with FlatBuffers](https://code.facebook.com/posts/872547912839369/improving-facebook-s-performance-on-android-with-flatbuffers/)
+
 ####Memory Tools 
 + [YourKit](https://www.yourkit.com/java/profiler/) - Performance and Memory Java Profile
 + [MAT](https://eclipse.org/mat/) - Memory Analysis tool for Java
@@ -45,6 +48,7 @@
 ##CPU
 + [SMP Primer for Android](http://developer.android.com/intl/zh-cn/training/articles/smp.html)
 + [JNI](http://developer.android.com/intl/zh-cn/training/articles/perf-jni.html)
+
 ####Tools
 + [Profiling with Traceview and dmtracedump](http://developer.android.com/tools/debugging/debugging-tracing.html)
 
@@ -55,12 +59,15 @@
 + [Better Compression = Faster Networking - Colt McAnlis' talk from SF Android](https://newcircle.com/s/post/1754/2015/08/20/colt-mcanlis-better-compression-faster-networking)
 
 #Article Videos Tools and others that cover multiple topics
+##Performance Test 
++ [Testing Performance of Mobile Apps - Part 1: How Fast Can Angry Birds Run?](http://www.methodsandtools.com/archive/mobileloadtesting.php)
 ##Articles
 + [Performance Tuning On Android](http://blog.venmo.com/hf2t3h4x98p5e13z82pl8j66ngcmry/performance-tuning-on-android) - Venmo's experience on UI performance optimization
 + [Best Practices for Performance](http://developer.android.com/training/best-performance.html) - Android Official Training on Performance
 + [Developing for Android](https://medium.com/google-developers/developing-for-android-ix-tools-375134af1098) - Chet Haase's series,including Memory,Storage, UI Performance
 + [Detect and Resolve Performance Problems on Android](http://code.tutsplus.com/tutorials/detect-and-resolve-performance-problems-on-android--cms-24058) - Use multiple ways to detect and fix Android Performance Problems
 + [Performance Tips](http://hsc.com/Blog/Best-Practices-For-Memory-Optimization-on-Android-1) - Android's Official Perf tips
++ [Facebook Engineering blogs tagged android](https://code.facebook.com/posts/android/) - Including many articles on performance
 
 #Tools
 + [Developing for Android IXTools](https://medium.com/google-developers/developing-for-android-ix-tools-375134af1098)
@@ -70,12 +77,11 @@
 ##Videos
 + [Android Performance Patterns](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu) - Google's official Video about Android Performance
 + [Android Performance](https://www.udacity.com/course/viewer#!/c-ud825/l-3753178711/m-3766928782) - Udacity's Video Series
-
 ##Codes
 + [udacity render example](https://github.com/udacity/ud825-render)
 + [leakcanary](https://github.com/square/leakcanary) - leakcanary source codes
 
-##People you should follow
+##People you should follow(their work contribute to almost all of this list)
 + [Colt McAnlis](https://twitter.com/duhroach) - Instructor of the Video at Udacity and Youtube
 + [Chet Haase](https://twitter.com/chethaase) - Author of the [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) series
-+ [Romain Guy](https://twitter.com/romainguy) - former developer of android ui frameowk team 
++ [Romain Guy](https://twitter.com/romainguy) - former developer of android ui frameowk team
