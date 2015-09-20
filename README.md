@@ -8,6 +8,13 @@
 + [Improving Comment Rendering on Android](http://instagram-engineering.tumblr.com/post/114508858967/improving-comment-rendering-on-android) - Instgram's post on TextView Performance
 + [Custom ViewGroups](https://sriramramani.wordpress.com/2015/05/06/custom-viewgroups/) - a Facebook Engineer's artcile on Custom ViewGroup to increase performance
 
+##WebView
++ [Why Use Crosswalk?](https://software.intel.com/en-us/xdk/docs/why-use-crosswalk-for-android-builds) - use crosswalk for better performance, especiallly for android version below4.4
++ [Enhance webView performance](http://stackoverflow.com/questions/3652583/enhance-webview-performance-should-be-the-same-performance-as-native-web-browse) - disable the WebView cache to make WebView much faster.
+
+####Tools
++ [crosswalk-cordova-android](https://github.com/crosswalk-project/crosswalk-cordova-android) — An app runtime based on Chromium/Blink.
+
 ##Graphics
 + [Android 3.0 Hardware Acceleration](http://android-developers.blogspot.com/2011/03/android-30-hardware-acceleration.html)
 + [Debug Overdraw](https://developer.android.com/tools/performance/debug-gpu-overdraw/index.html) - debug overdraw
@@ -73,7 +80,7 @@
 + [Developing for Android IXTools](https://medium.com/google-developers/developing-for-android-ix-tools-375134af1098)
 + [Performance Profiling Tools](https://developer.android.com/tools/performance/index.html) - Performance Tools
 + [StrictMode](http://developer.android.com/intl/zh-cn/reference/android/os/StrictMode.html) - Debug Util Class for  etection for Storage, Memory and others.
-+ ``[crosswalk-cordova-android](https://github.com/crosswalk-project/crosswalk-cordova-android)`` — [Crosswalk](https://github.com/crosswalk-project/crosswalk) is an app runtime based on Chromium/Blink.
+
 
 ##Videos
 + [Android Performance Patterns](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu) - Google's official Video about Android Performance
