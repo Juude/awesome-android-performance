@@ -64,6 +64,7 @@
 
 ###Network
 + [Better Compression = Faster Networking - Colt McAnlis' talk from SF Android](https://newcircle.com/s/post/1754/2015/08/20/colt-mcanlis-better-compression-faster-networking)
++ [Improving UX through performance](https://raw.githubusercontent.com/Juude/awesome-android-performance/master/docs/improving_ux_through_performance.pdf) - using okhttp, Fresco,or ToFu to improve network performance
 
 #Article Videos Tools and others that cover multiple topics
 ##Performance Test 
