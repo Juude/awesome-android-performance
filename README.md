@@ -93,4 +93,4 @@
 ##People you should follow(their work contribute to almost all of this list)
 + [Colt McAnlis](https://twitter.com/duhroach) - Instructor of the Video at Udacity and Youtube
 + [Chet Haase](https://twitter.com/chethaase) - Author of the [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) series
-+ [Romain Guy](https://twitter.com/romainguy) - former developer of android ui frameowk team
++ [Romain Guy](https://twitter.com/romainguy) - former developer of android ui framework team
