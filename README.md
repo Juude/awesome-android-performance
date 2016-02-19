@@ -23,6 +23,7 @@
 + [Hardware Acceleration](http://developer.android.com/guide/topics/graphics/hardware-accel.html#layers)
 + [Optimizing Hardware Layers](http://www.curious-creature.com/2013/09/13/optimizing-hardware-layers/)
 + [Graphics Performance](https://storage.googleapis.com/androiddevelopers/android_developers_backstage/ADB%2031%20Graphics%20Performance.mp3) - Podcasts on Android Performance
+
 ####Tools
 + [Analyzing UI Performance with Systrace](http://developer.android.com/intl/zh-cn/tools/debugging/systrace.html)
 + [Optimizing Your UI](http://developer.android.com/intl/zh-cn/tools/debugging/debugging-ui.html) - HierarchyViewer Usage
@@ -69,6 +70,7 @@
 #Article Videos Tools and others that cover multiple topics
 ##Performance Test 
 + [Testing Performance of Mobile Apps - Part 1: How Fast Can Angry Birds Run?](http://www.methodsandtools.com/archive/mobileloadtesting.php)
+
 ##Articles
 + [Performance Tuning On Android](http://blog.venmo.com/hf2t3h4x98p5e13z82pl8j66ngcmry/performance-tuning-on-android) - Venmo's experience on UI performance optimization
 + [Best Practices for Performance](http://developer.android.com/training/best-performance.html) - Android Official Training on Performance
@@ -86,6 +88,7 @@
 ##Videos
 + [Android Performance Patterns](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu) - Google's official Video about Android Performance
 + [Android Performance](https://www.udacity.com/course/viewer#!/c-ud825/l-3753178711/m-3766928782) - Udacity's Video Series
+
 ##Codes
 + [udacity render example](https://github.com/udacity/ud825-render)
 + [leakcanary](https://github.com/square/leakcanary) - leakcanary source codes
