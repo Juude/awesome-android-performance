@@ -3,6 +3,9 @@
 
 ---
 ##View
+####Google Official Videos
++ [Double Layout Taxation Android Performance Patterns Season 3 ep8](https://www.youtube.com/watch?v=dB3_vgS-Uqo&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=25) - fix layout problems
+####Others
 + [Infamous ViewHolder Pattern](https://sriramramani.wordpress.com/2012/07/25/infamous-viewholder-pattern/) - ViewHolder pattern in ListView 
 + [View Reduction](https://sriramramani.wordpress.com/2013/03/25/view-reduction/) - use Compound Drawables  to increase performance
 + [Improving Comment Rendering on Android](http://instagram-engineering.tumblr.com/post/114508858967/improving-comment-rendering-on-android) - Instgram's post on TextView Performance
@@ -37,6 +40,16 @@
 
 
 ##Memory
+####Google official videos
++ [Memory Performance 101](https://www.youtube.com/watch?v=OrLEoIsMIAc&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=59)
++ [Android Performance Patterns: Tool - Memory Monitor
+](https://www.youtube.com/watch?v=7ls28uGMBEs&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=63) - introducing Memory monitor and Memory heap tool
++ [Android Performance Patterns: Performance Cost of Memory Leaks](https://www.youtube.com/watch?v=h7qHsk1nWKI&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=62) - on memory leaks
++ [Garbage Collection in Android](https://www.youtube.com/watch?v=pzfzz50W5Uo&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=61)
++ [Memory Churn and Performance](https://www.youtube.com/watch?v=McAvq5SkeTk&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=60)
++ [Avoiding Allocations in onDraw](https://www.youtube.com/watch?v=HAK5acHQ53E&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=37)
+
+####others
 + [Investigating Your RAM Usage](http://developer.android.com/intl/zh-cn/tools/debugging/debugging-memory.html)
 + [The truth about Preventative Optimizations](https://medium.com/google-developers/the-truth-about-preventative-optimizations-ccebadfd3eb5) - You  can find some useful things from the links.
 + [A small leak will sink a great ship](https://corner.squareup.com/2015/08/a-small-leak.html)
@@ -48,21 +61,21 @@
 + [How to Leak a Context: Handlers & Inner Classes](http://www.androiddesignpatterns.com/2013/01/inner-class-handler-memory-leak.html)
 + [Improving Facebook's performance on Android with FlatBuffers](https://code.facebook.com/posts/872547912839369/improving-facebook-s-performance-on-android-with-flatbuffers/)
 
-####Memory Tools 
+####Tools for improving memory performnace
 + [YourKit](https://www.yourkit.com/java/profiler/) - Performance and Memory Java Profile
 + [MAT](https://eclipse.org/mat/) - Memory Analysis tool for Java
 + [Allocation Tracker](http://developer.android.com/intl/zh-cn/tools/debugging/ddms.html#alloc)
 
-##CPU
-+ [SMP Primer for Android](http://developer.android.com/intl/zh-cn/training/articles/smp.html)
-+ [JNI](http://developer.android.com/intl/zh-cn/training/articles/perf-jni.html)
+##Concurrency
++ [The Zen of IntentService. (Android Performance Patterns Season 5 ep7)](https://www.youtube.com/watch?v=9FweabuBi1U&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=70) - Talked about IntentServices, AsyncTasks, HandlerThread in the background thread.
 
-####Tools
-+ [Profiling with Traceview and dmtracedump](http://developer.android.com/tools/debugging/debugging-tracing.html)
 
 ##Battery
 + [Optimizing Battery Life](https://developer.android.com/training/monitoring-device-state/index.html) - Android's official tutorial for Battery Optimization
 
+##Others
++ [SMP Primer for Android](http://developer.android.com/intl/zh-cn/training/articles/smp.html)
++ [JNI](http://developer.android.com/intl/zh-cn/training/articles/perf-jni.html)
 ###Network
 ######Google Official
 + [Optimizing Network Request Frequencies (Android Performance Patterns Season 4 ep2)
