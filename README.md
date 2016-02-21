@@ -45,9 +45,10 @@
 + [Android Performance Patterns: Tool - Memory Monitor
 ](https://www.youtube.com/watch?v=7ls28uGMBEs&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=63) - introducing Memory monitor and Memory heap tool
 + [Android Performance Patterns: Performance Cost of Memory Leaks](https://www.youtube.com/watch?v=h7qHsk1nWKI&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=62) - on memory leaks
-+ [Garbage Collection in Android](https://www.youtube.com/watch?v=pzfzz50W5Uo&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=61)
++ [Garbage Collection in Android](https://www.youtube.com/watch?v=pzfzz505Uo&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=61)
 + [Memory Churn and Performance](https://www.youtube.com/watch?v=McAvq5SkeTk&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=60)
 + [Avoiding Allocations in onDraw](https://www.youtube.com/watch?v=HAK5acHQ53E&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=37)
++ [Android内存优化之OOM](http://hukai.me/android-performance-oom/)
 
 ####others
 + [Investigating Your RAM Usage](http://developer.android.com/intl/zh-cn/tools/debugging/debugging-memory.html)
@@ -120,3 +121,4 @@ Android Developers](https://www.youtube.com/watch?v=nDHeuEM30ks&list=PLOU2XLYxms
 + [Colt McAnlis](https://twitter.com/duhroach) - Instructor of the Video at Udacity and Youtube
 + [Chet Haase](https://twitter.com/chethaase) - Author of the [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) series
 + [Romain Guy](https://twitter.com/romainguy) - former developer of android ui framework team
++ [胡凯](hukai.me) - 翻译了包括Google官方视频的许多andorid性能优化的资料
