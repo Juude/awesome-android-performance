@@ -64,8 +64,18 @@
 + [Optimizing Battery Life](https://developer.android.com/training/monitoring-device-state/index.html) - Android's official tutorial for Battery Optimization
 
 ###Network
+######Google Official
++ [Optimizing Network Request Frequencies (Android Performance Patterns Season 4 ep2)
+Android Developers](https://www.youtube.com/watch?v=nDHeuEM30ks&list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu&index=2) - push instead pull data, sync policies and so on.
++ [Serialization performance (Android Performance Patterns Season 4 ep14)](https://www.youtube.com/watch?v=IwxIIUypnTE&index=14&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&linkId=20302393) - use Protobuffers and FlatBuffer to improve seiralization performance
++ [Effective Network Batching (Android Performance Patterns Season 3 ep10)](https://www.youtube.com/watch?v=Ecz5WDZoJok&index=27&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
+######Others
 + [Better Compression = Faster Networking - Colt McAnlis' talk from SF Android](https://newcircle.com/s/post/1754/2015/08/20/colt-mcanlis-better-compression-faster-networking)
 + [Improving UX through performance](https://raw.githubusercontent.com/Juude/awesome-android-performance/master/docs/improving_ux_through_performance.pdf) - using okhttp, Fresco,or ToFu to improve network performance
+###Network Profiling Tools
++ [ARO](https://developer.att.com/application-resource-optimizer/get-aro/download) - Use this free diagnostic tool to improve your app's battery life, data usage, and responsiveness
++ [Network Monitor in Android Studio](http://developer.android.com/intl/zh-cn/tools/help/am-network.html)
+
 
 #Article Videos Tools and others that cover multiple topics
 ##Performance Test 
