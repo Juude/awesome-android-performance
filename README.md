@@ -107,6 +107,7 @@ Android Developers](https://www.youtube.com/watch?v=nDHeuEM30ks&list=PLOU2XLYxms
 + [Developing for Android IXTools](https://medium.com/google-developers/developing-for-android-ix-tools-375134af1098)
 + [Performance Profiling Tools](https://developer.android.com/tools/performance/index.html) - Performance Tools
 + [StrictMode](http://developer.android.com/intl/zh-cn/reference/android/os/StrictMode.html) - Debug Util Class for  etection for Storage, Memory and others.
++ [Probe](https://github.com/EverythingMe/probe) - Android performance instrumentation tool, comparing application vital signs (CPU usage, memory utilization, number of threads, disk usage, etc.) across app versions, detecting performace regressions.
 
 
 ##Videos
