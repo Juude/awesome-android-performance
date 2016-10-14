@@ -26,6 +26,7 @@
 + [Hardware Acceleration](http://developer.android.com/guide/topics/graphics/hardware-accel.html#layers)
 + [Optimizing Hardware Layers](http://www.curious-creature.com/2013/09/13/optimizing-hardware-layers/)
 + [Graphics Performance](https://storage.googleapis.com/androiddevelopers/android_developers_backstage/ADB%2031%20Graphics%20Performance.mp3) - Podcasts on Android Performance
++ [Hardware Acceleration Animation](http://blog.danlew.net/2015/10/20/using-hardware-layers-to-improve-animation-performance/) - Using hardware layers to improve Android animation performance,
 
 ####Tools
 + [Analyzing UI Performance with Systrace](http://developer.android.com/intl/zh-cn/tools/debugging/systrace.html)
