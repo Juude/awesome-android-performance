@@ -26,6 +26,7 @@
 + [Hardware Acceleration](http://developer.android.com/guide/topics/graphics/hardware-accel.html#layers)
 + [Optimizing Hardware Layers](http://www.curious-creature.com/2013/09/13/optimizing-hardware-layers/)
 + [Graphics Performance](https://storage.googleapis.com/androiddevelopers/android_developers_backstage/ADB%2031%20Graphics%20Performance.mp3) - Podcasts on Android Performance
++ [Hardware Acceleration Animation](http://blog.danlew.net/2015/10/20/using-hardware-layers-to-improve-animation-performance/) - Using hardware layers to improve Android animation performance,
 
 ####Tools
 + [Analyzing UI Performance with Systrace](http://developer.android.com/intl/zh-cn/tools/debugging/systrace.html)
@@ -113,6 +114,7 @@ Android Developers](https://www.youtube.com/watch?v=nDHeuEM30ks&list=PLOU2XLYxms
 ##Videos
 + [Android Performance Patterns](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu) - Google's official Video about Android Performance
 + [Android Performance](https://www.udacity.com/course/viewer#!/c-ud825/l-3753178711/m-3766928782) - Udacity's Video Series
++ [UI Performance](https://realm.io/news/360andev-brenda-cook-optimizing-profiling-ui-performance-android-ux/) - Optimizing and Profiling UI Performance
 
 ##Codes
 + [udacity render example](https://github.com/udacity/ud825-render)
