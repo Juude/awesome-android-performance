@@ -114,6 +114,7 @@ Android Developers](https://www.youtube.com/watch?v=nDHeuEM30ks&list=PLOU2XLYxms
 ##Videos
 + [Android Performance Patterns](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu) - Google's official Video about Android Performance
 + [Android Performance](https://www.udacity.com/course/viewer#!/c-ud825/l-3753178711/m-3766928782) - Udacity's Video Series
++ [UI Performance](https://realm.io/news/360andev-brenda-cook-optimizing-profiling-ui-performance-android-ux/) - Optimizing and Profiling UI Performance
 
 ##Codes
 + [udacity render example](https://github.com/udacity/ud825-render)
