@@ -8,7 +8,7 @@
 ####Others
 + [Infamous ViewHolder Pattern](https://sriramramani.wordpress.com/2012/07/25/infamous-viewholder-pattern/) - ViewHolder pattern in ListView 
 + [View Reduction](https://sriramramani.wordpress.com/2013/03/25/view-reduction/) - use Compound Drawables  to increase performance
-+ [Improving Comment Rendering on Android](http://instagram-engineering.tumblr.com/post/114508858967/improving-comment-rendering-on-android) - Instgram's post on TextView Performance
++ [Improving Comment Rendering on Android](https://engineering.instagram.com/improving-comment-rendering-on-android-a77d5db3d82e) - Instagram's post on TextView Performance
 + [Custom ViewGroups](https://sriramramani.wordpress.com/2015/05/06/custom-viewgroups/) - a Facebook Engineer's artcile on Custom ViewGroup to increase performance
 
 ##WebView
