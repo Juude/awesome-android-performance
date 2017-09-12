@@ -110,7 +110,8 @@ Android Developers](https://www.youtube.com/watch?v=nDHeuEM30ks&list=PLOU2XLYxms
 + [Performance Profiling Tools](https://developer.android.com/tools/performance/index.html) - Performance Tools
 + [StrictMode](http://developer.android.com/intl/zh-cn/reference/android/os/StrictMode.html) - Debug Util Class for  etection for Storage, Memory and others.
 + [Probe](https://github.com/EverythingMe/probe) - Android performance instrumentation tool, comparing application vital signs (CPU usage, memory utilization, number of threads, disk usage, etc.) across app versions, detecting performace regressions.
-
++ [BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx) - make performance bottleneck detection easily when app blocked
++ [DroidTelescope](https://github.com/zkwlx/DroidTelescope) - detect performance bolck 
 
 ## Videos
 + [Android Performance Patterns](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu) - Google's official Video about Android Performance
