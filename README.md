@@ -7,7 +7,7 @@
 + [Double Layout Taxation Android Performance Patterns Season 3 ep8](https://www.youtube.com/watch?v=dB3_vgS-Uqo&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=25) - fix layout problems
 
 #### Others
-+ [Infamous ViewHolder Pattern](https://sriramramani.wordpress.com/2012/07/25/infamous-viewholder-pattern/) - ViewHolder pattern in ListView 
++ [Infamous ViewHolder Pattern](https://sriramramani.wordpress.com/2012/07/25/infamous-viewholder-pattern/) - ViewHolder pattern in ListView
 + [View Reduction](https://sriramramani.wordpress.com/2013/03/25/view-reduction/) - use Compound Drawables  to increase performance
 + [Improving Comment Rendering on Android](https://engineering.instagram.com/improving-comment-rendering-on-android-a77d5db3d82e) - Instagram's post on TextView Performance
 + [Custom ViewGroups](https://sriramramani.wordpress.com/2015/05/06/custom-viewgroups/) - a Facebook Engineer's artcile on Custom ViewGroup to increase performance
@@ -15,6 +15,7 @@
 ## WebView
 + [Why Use Crosswalk?](https://software.intel.com/en-us/xdk/docs/why-use-crosswalk-for-android-builds) - use crosswalk for better performance, especiallly for android version below4.4
 + [Enhance webView performance](http://stackoverflow.com/questions/3652583/enhance-webview-performance-should-be-the-same-performance-as-native-web-browse) - disable the WebView cache to make WebView much faster.
++ [Supercharging the Android WebView](https://medium.com/myntra-engineering/leveraging-native-power-in-webview-105d248fe71) - cache critical assets that drastically reduce the load time.
 
 #### Tools
 + [crosswalk-cordova-android](https://github.com/crosswalk-project/crosswalk-cordova-android) — An app runtime based on Chromium/Blink.
@@ -94,7 +95,7 @@ Android Developers](https://www.youtube.com/watch?v=nDHeuEM30ks&list=PLOU2XLYxms
 
 
 # Article Videos Tools and others that cover multiple topics
-## Performance Test 
+## Performance Test
 + [Testing Performance of Mobile Apps - Part 1: How Fast Can Angry Birds Run?](http://www.methodsandtools.com/archive/mobileloadtesting.php)
 
 ## Articles
@@ -111,7 +112,7 @@ Android Developers](https://www.youtube.com/watch?v=nDHeuEM30ks&list=PLOU2XLYxms
 + [StrictMode](http://developer.android.com/intl/zh-cn/reference/android/os/StrictMode.html) - Debug Util Class for  etection for Storage, Memory and others.
 + [Probe](https://github.com/EverythingMe/probe) - Android performance instrumentation tool, comparing application vital signs (CPU usage, memory utilization, number of threads, disk usage, etc.) across app versions, detecting performace regressions.
 + [BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx) - make performance bottleneck detection easily when app blocked
-+ [DroidTelescope](https://github.com/zkwlx/DroidTelescope) - detect performance bolck 
++ [DroidTelescope](https://github.com/zkwlx/DroidTelescope) - detect performance bolck
 
 ## Videos
 + [Android Performance Patterns](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu) - Google's official Video about Android Performance
