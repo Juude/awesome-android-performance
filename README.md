@@ -1,7 +1,9 @@
 # awesome-android-performance
  This is a  list of awesome Android tutorials, videos and tools for performance optimization
-  欢迎关注，阿里、菜鸟、蚂蚁等招android开发，内推可邮件juude.song@gmail.com
+ 
 ---
+- 阿里、菜鸟、蚂蚁等招android开发，内推可邮件juude.song@gmail.com
+
 ## View
 #### Google Official Videos
 + [Double Layout Taxation Android Performance Patterns Season 3 ep8](https://www.youtube.com/watch?v=dB3_vgS-Uqo&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=25) - fix layout problems
