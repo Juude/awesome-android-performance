@@ -2,7 +2,6 @@
  This is a  list of awesome Android tutorials, videos and tools for performance optimization
  
 ---
-- 阿里、菜鸟、蚂蚁等招android开发，内推可邮件juude.song@gmail.com
 
 ## View
 #### Google Official Videos
@@ -130,3 +129,5 @@ Android Developers](https://www.youtube.com/watch?v=nDHeuEM30ks&list=PLOU2XLYxms
 + [Chet Haase](https://twitter.com/chethaase) - Author of the [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) series
 + [Romain Guy](https://twitter.com/romainguy) - former developer of android ui framework team
 + [胡凯](hukai.me) - 翻译了包括Google官方视频的许多andorid性能优化的资料
+
++ 广告：阿里、菜鸟、蚂蚁等招android开发，内推可邮件juude.song@gmail.com
