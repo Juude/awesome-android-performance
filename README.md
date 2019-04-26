@@ -114,6 +114,7 @@ Android Developers](https://www.youtube.com/watch?v=nDHeuEM30ks&list=PLOU2XLYxms
 + [Probe](https://github.com/EverythingMe/probe) - Android performance instrumentation tool, comparing application vital signs (CPU usage, memory utilization, number of threads, disk usage, etc.) across app versions, detecting performace regressions.
 + [BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx) - make performance bottleneck detection easily when app blocked
 + [DroidTelescope](https://github.com/zkwlx/DroidTelescope) - detect performance bolck
++ [Booster](https://github.com/didi/booster) - Booster是专门为移动应用而设计的简单易用、轻量级、无侵入以及可扩展的质量优化工具
 
 ## Videos
 + [Android Performance Patterns](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu) - Google's official Video about Android Performance
